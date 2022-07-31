@@ -8,7 +8,6 @@
 --Grayishblue: hsl(220, 15%, 55%);
 --Darkblue: hsl(218, 44%, 22%);
 --Fontsize:(paragraph): 15px;
---Family:[Outfit](https://fonts.google.com/specimen/Outfit);
 --Weights: 400, 700;
 }
 
@@ -29,6 +28,11 @@
     flex-direction: column;
     width: 300px;
     height: 600px;
+    text-align: center;
+    color: var(--Darkblue);
+    font-size: 12px;
+    font-weight: 700;
+    font-family:'Outfit', sans-serif;
 }
 
 img{
@@ -36,4 +40,10 @@ img{
     border-radius: 12px;
     width: 280px;
     height: 280px;
+}
+
+p{
+    color: var(--Grayishblue);
+    font-weight: 400;
+    font-size: 15px;
 }
