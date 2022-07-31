@@ -6,10 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Author](#author)
 
-### Links
-
-
-
 ## Author
 
 - Frontend Mentor - [@Mancux2premium](https://www.frontendmentor.io/profile/Mancux2premium)
