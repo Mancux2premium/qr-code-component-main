@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+--White: hsl(0, 0%, 100%);
+--Lightgray: hsl(212, 45%, 89%);
+--Grayishblue: hsl(220, 15%, 55%);
+--Darkblue: hsl(218, 44%, 22%);
+--Fontsize:(paragraph): 15px;
+--Family:[Outfit](https://fonts.google.com/specimen/Outfit);
+--Weights: 400, 700;
+}
+
+.mainContainer{
+    background-color:var(--Lightgray);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
